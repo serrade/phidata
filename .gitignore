@@ -37,6 +37,9 @@ dist
 venv*
 phienv*
 aienv*
+pyvenv.cfg
+bin/
+lib/
 
 # ignore tmp dirs
 scratch
